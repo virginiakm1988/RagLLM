@@ -161,6 +161,8 @@ user@host:~$ sudo systemctl restart docker
     ```
     * **檢查點：** 你會回到你本地主機的終端提示符。
 
+
+也可以使用 https://build.nvidia.com/deepseek-ai/deepseek-r1-distill-llama-8b/deploy, anythingllm支援Nvidia NIM服務
 ---
 
 ## 步驟 2：設置 AnythingLLM 的儲存並啟動服務
