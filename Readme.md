@@ -1,4 +1,4 @@
-# 在本地電腦使用 Ollama 和 AnythingLLM 建立中文聊天機器人
+# 在本地電腦使用 Ollama 和 AnythingLLM 建立聊天機器人
 
 本教學將引導你如何在自己的 **Ubuntu 電腦** 上，使用 Docker 來運行 Ollama 服務（並利用你的 NVIDIA GPU ），然後搭配 AnythingLLM 建立一個功能強大且支援 RAG (檢索增強生成) 的聊天機器人。
 
